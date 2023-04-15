@@ -1,0 +1,11 @@
+C:\Users\adria\OneDrive\Área de Trabalho\Devinhouse\Modulo 2\Semana 1\M2S1E5\obj\Debug\netcoreapp3.1\M2S1E5.csprojAssemblyReference.cache
+C:\Users\adria\OneDrive\Área de Trabalho\Devinhouse\Modulo 2\Semana 1\M2S1E5\obj\Debug\netcoreapp3.1\M2S1E5.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\Devinhouse\Modulo 2\Semana 1\M2S1E5\obj\Debug\netcoreapp3.1\M2S1E5.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Área de Trabalho\Devinhouse\Modulo 2\Semana 1\M2S1E5\bin\Debug\netcoreapp3.1\M2S1E5.exe
+C:\Users\adria\OneDrive\Área de Trabalho\Devinhouse\Modulo 2\Semana 1\M2S1E5\bin\Debug\netcoreapp3.1\M2S1E5.deps.json
+C:\Users\adria\OneDrive\Área de Trabalho\Devinhouse\Modulo 2\Semana 1\M2S1E5\bin\Debug\netcoreapp3.1\M2S1E5.runtimeconfig.json
+C:\Users\adria\OneDrive\Área de Trabalho\Devinhouse\Modulo 2\Semana 1\M2S1E5\bin\Debug\netcoreapp3.1\M2S1E5.runtimeconfig.dev.json
+C:\Users\adria\OneDrive\Área de Trabalho\Devinhouse\Modulo 2\Semana 1\M2S1E5\bin\Debug\netcoreapp3.1\M2S1E5.dll
+C:\Users\adria\OneDrive\Área de Trabalho\Devinhouse\Modulo 2\Semana 1\M2S1E5\bin\Debug\netcoreapp3.1\M2S1E5.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\Devinhouse\Modulo 2\Semana 1\M2S1E5\obj\Debug\netcoreapp3.1\M2S1E5.dll
+C:\Users\adria\OneDrive\Área de Trabalho\Devinhouse\Modulo 2\Semana 1\M2S1E5\obj\Debug\netcoreapp3.1\M2S1E5.pdb
