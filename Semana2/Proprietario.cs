@@ -13,7 +13,7 @@ public Proprietario(){}
       Telefone = telefone;
     }
     override public string ToString(){
-       return $"Nome: {Nome} CPf: {CPF} Telefone: {Telefone}";
+       return $"Nome: {Nome}, CPf: {CPF}, Telefone: {Telefone}.";
     }
     
   }

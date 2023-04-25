@@ -60,10 +60,12 @@
 
             void exibir()
             {
-                foreach (Carro carro in carros) {
-Console.WriteLine($"{carro.Marca} {carro.Modelo} {carro.Placa} {carro.Cor} {carro.proprietario.ToString()}");
-
-                 }
+                foreach (Carro carro in carros)
+                {
+                    Console.WriteLine(
+                        $"{carro.Marca} {carro.Modelo} {carro.Placa} {carro.Cor} {carro.proprietario.ToString()}"
+                    );
+                }
             }
             cadastrarCarro();
             exibir();
