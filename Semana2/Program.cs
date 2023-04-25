@@ -24,7 +24,10 @@
             Carro carro2= new Carro("FIAT", "FIESTA", "ORS4588", "BRANCO", proprietario2 );
             Carro carro3= new Carro("FIAT", "STRADA", "SFH4852", "BRANCO", proprietario3 );
             
-           
+            List<Carro> carros = new List<Carro>();
+            carros.Add(carro1);
+            carros.Add(carro2);
+            carros.Add(carro3);
               }
     }
 }
